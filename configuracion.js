@@ -42,7 +42,7 @@ global.openai_org_id = "org-3";
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
 /* NO BORRAR NADA DE AQUÍ ABAJO*/
-global.lenguajeGB = es;
+global.lenguajeGB = en;
 global.memexd = memexd;
 global.cheerio = cheerio;
 global.uploadImage = uploadImage;
