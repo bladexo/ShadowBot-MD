@@ -71,7 +71,7 @@ global.version = vs;
 global.baileys = '@whiskeysockets/baileys'
 //_______tiempp de stickers______________
 global.d = new Date(new Date() + 3600000);
-global.locale = "es";
+global.locale = "en";
 global.dia = d.toLocaleDateString(locale, {weekday: "long"});
 global.fecha = d.toLocaleDateString("es", {day: "numeric", month: "numeric", year: "numeric"});
 global.mes = d.toLocaleDateString("es", {month: "long"});
